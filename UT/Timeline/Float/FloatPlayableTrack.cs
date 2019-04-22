@@ -2,7 +2,7 @@
 using UnityEngine.Playables;
 using UnityEngine.Timeline;
 
-namespace MGUT.Timeline
+namespace MG.UT.Timeline
 {
     [TrackClipType(typeof(FloatPlayableAsset))]
     [TrackBindingType(typeof(FloatPlayableBinding))]

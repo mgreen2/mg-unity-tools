@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MGUT.Interpolation
+namespace MG.UT.Math
 {
     public class CurveInterpolator : MonoBehaviour
     {

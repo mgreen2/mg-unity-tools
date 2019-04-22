@@ -1,7 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.Playables;
 
-namespace MGUT.Timeline {
+namespace MG.UT.Timeline {
     public class FloatPlayableAsset : PlayableAsset
     {
         public FloatPlayableBehaviour template;

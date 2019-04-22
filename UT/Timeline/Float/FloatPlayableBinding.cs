@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace MGUT.Timeline {
+namespace MG.UT.Timeline {
     public class FloatPlayableBinding : MonoBehaviour
     {
 
